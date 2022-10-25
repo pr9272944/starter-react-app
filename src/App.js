@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Start Trading->Today
+          Start Play->Today
         </a>
       </header>
     </div>
